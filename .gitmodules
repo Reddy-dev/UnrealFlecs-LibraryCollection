@@ -1,4 +1,4 @@
 [submodule "UnrealFlecs"]
-path = UnrealFlecs
-url = https://github.com/Reddy-dev/Unreal-Flecs.git
-branch = main
+    path = UnrealFlecs
+    url = https://github.com/Reddy-dev/Unreal-Flecs.git
+    branch = main
