@@ -2,3 +2,9 @@
 	path = UnrealFlecs
 	url = https://github.com/Reddy-dev/Unreal-Flecs.git
 	branch = main
+	
+[submodule "UnrealFlecs-StateTree"]
+	path = UnrealFlecs-StateTree
+	url = https://github.com/Reddy-dev/UnrealFlecs-StateTree.git
+	branch = main
+
