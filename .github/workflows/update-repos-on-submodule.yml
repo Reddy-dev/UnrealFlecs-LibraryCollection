@@ -31,10 +31,8 @@ jobs:
           ./UpdateRepos.ps1 -Commit -Message "chore: update submodules to latest"
         shell: pwsh
 
-      - name: Push changes (if any)
+      - name: Push changes
         run: |
-          git diff --quiet && echo "No changes to push." && exit 0
-
           echo "Changes detected. Pushing..."
           git push origin HEAD:main
         shell: pwsh
