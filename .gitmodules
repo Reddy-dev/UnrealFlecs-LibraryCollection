@@ -8,3 +8,7 @@
 	url = https://github.com/Reddy-dev/UnrealFlecs-StateTree.git
 	branch = main
 
+[submodule "UnrealFlecs-Chaos"]
+	path = UnrealFlecs-Chaos
+	url = https://github.com/Reddy-dev/UnrealFlecs-Chaos.git
+	branch = main
