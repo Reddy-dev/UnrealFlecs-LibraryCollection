@@ -12,3 +12,7 @@
 	path = UnrealFlecs-Chaos
 	url = https://github.com/Reddy-dev/UnrealFlecs-Chaos.git
 	branch = main
+[submodule "UnrealFlecs-Networking"]
+	path = UnrealFlecs-Networking
+	url = https://github.com/Reddy-dev/UnrealFlecs-Networking.git
+	branch = main
