@@ -1,2 +1,2 @@
 # Unreal-Flecs Library Collection
-Collection of all the UnrealFlecs Plugins
+Collection of all the UnrealFlecs Plugins auto updated to latest
